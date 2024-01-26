@@ -1,0 +1,164 @@
+.nav {
+  overflow: hidden;
+}
+
+.sk {
+  position: absolute;
+  left: 190px;
+  top: 45px;
+  border-left: 1px solid #c81523;
+  padding: 3px 0 0 14px;
+}
+
+.sK_container {
+  position: relative;
+}
+
+
+.button_flot {
+  position: sticky;
+  top: 0;
+  height: 0;
+  margin-left: 1210px;
+  margin-top: -152px;
+}
+
+.flot__top {
+  background-color: #B1191A;
+  height: 68px;
+  width: 68px;
+  margin-bottom: 1px;
+  text-align: center;
+  color: #fff;
+  font-size: 18px;
+}
+
+.sk_list {
+  float: left;
+}
+
+.sk_list ul li {
+  float: left;
+}
+
+.sk_list ul li a {
+  font-size: 16px;
+  font-weight: 700;
+  color: #000;
+  display: block;
+  line-height: 47px;
+  padding: 0 30px;
+}
+
+.sk_con {
+  float: left;
+}
+
+.sk_con ul li {
+  float: left;
+}
+
+.sk_con ul li a {
+  font-size: 14px;
+  display: block;
+  line-height: 49px;
+  padding: 0 20px;
+}
+
+.sk_con ul li:last-child a::after {
+  content: '\e91e';
+  font-family: 'icomoon';
+}
+
+.sk_bd {
+  width: 290px;
+  height: 460px;
+  margin-left: 10px;
+  float: left;
+}
+
+.bar {
+  width: 133px;
+  height: 13px;
+  border: 1px solid #ed282e;
+  border-radius: 7px;
+}
+
+.bar_in {
+  width: 87%;
+  height: 100%;
+  background-color: #ed282e;
+  border-top-left-radius: 7px;
+  border-bottom-left-radius: 7px;
+}
+
+.sk_bd_list {
+  float:left;
+}
+
+.sk_bd_box p{
+  margin-left: 15px;
+}
+.sk_bd_box_img {
+  width: 288px;
+  position: relative;
+  border:1px solid #ccc;
+}
+
+.sk_bd_box_img img {
+  width: 100%;
+}
+.mask {
+  display: none;
+  position:absolute;
+  top:0;
+  left:0;
+  width: 200px;
+  height: 200px;
+  background: #FEDE4F;
+  opacity: .5;
+  cursor: move;
+}
+.big {
+  /* display: none; */
+  position: absolute;
+  left: 295px;
+  top: 0px;
+  width: 500px;
+  height: 500px;
+  z-index: 999;
+  border:1px solid #ccc;
+  overflow: hidden;
+}
+.big img {
+  position: absolute;
+  top: 0;
+  left:0;
+  width: 800px;
+  height: 800px;
+}
+.sk_bd_box:hover {
+  border: 1px solid red;
+}
+
+.sk_db_quantity {
+  margin-bottom: 15px;
+  height: 15px;
+}
+.sk_db_quantity p {
+  float: left;
+}
+.sk_db_quantity div {
+  float: left;
+}
+.after{
+  margin-right: 15px;
+
+}
+.after i {
+  color: #c81523;
+}
+.footer {
+  margin-top:285px;
+  float: left;
+}
