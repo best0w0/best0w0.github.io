@@ -1,5 +1,5 @@
 🛍️ 仿京东前端页面项目（JD Clone）
-🔗 项目地址：👉 点击在线预览https://github.com/best0w0/best0w0.github.io/tree/main
+🔗 项目地址：👉 点击在线预览[https://github.com/best0w0/best0w0.github.io/tree/main](https://best0w0.github.io/)
 
 🧾 项目简介
 本项目是我本科大二时《网站与网络程序设计》的作业，任务是复刻京东商城首页设计并实现前端网页项目，旨在提升 HTML/CSS/JavaScript 综合运用能力，练习响应式布局与页面还原。我从零完成了页面结构搭建、样式布局、交互实现等全过程。
